@@ -24,4 +24,4 @@ Talk to me about
 
 ![Kamlesh's github stats](https://github-readme-stats.vercel.app/api?username=kamleshkc2002&show_icons=true&hide=["issues"])
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kamleshkc2002)
+Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/kamleshkc2002/count.svg)
