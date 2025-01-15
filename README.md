@@ -11,7 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-kamleshkc2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kamleshkc2002@gmail.com)](mailto:kamleshkc2002@gmail.com)
 [![GitHub Kamlesh](https://img.shields.io/github/followers/kamleshkc2002?label=follow&style=social)](https://github.com/kamleshkc2002)
 
-I am Kamlesh, and I am current a software developer at <a href="http://www.hubspot.com">hubspot.com</a> and an ex-Amazon employee. I have extensive experience in AWS technologies and am proficient in Java. I like to dabble in Open Source technologies and I spend a lot of time on leetcode working on interesting problems. 
+I am Kamlesh, and I am current a software developer at <a href="http://www.klaviyo.com">Klaviyo</a>. I have previously worked at <a href="http://www.hubspot.com">Hubspot and <a href="http://www.amazon.com">Amazon. I have extensive experience in AWS technologies and am proficient in Java. I like to dabble in Open Source technologies. 
 
 ## ⚡ Technologies
 Talk to me about
