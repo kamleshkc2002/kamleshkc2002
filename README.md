@@ -25,7 +25,3 @@ Talk to me about
 - 💬 Ask me about anything and everything.
 
 My professional experience spans across different business verticals like retail, Alexa and now inbound marketing.
-
-![Kamlesh's github stats](https://github-readme-stats.vercel.app/api?username=kamleshkc2002&show_icons=true&hide=["issues"])
-
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/kamleshkc2002/count.svg)
