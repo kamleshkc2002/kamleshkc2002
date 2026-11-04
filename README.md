@@ -4,9 +4,9 @@
 
 ### Senior Software Engineer at [Klaviyo](https://www.klaviyo.com) | Backend & Distributed Systems | AI, Infrastructure & Messaging Platforms
 
-📍 Greater Boston &nbsp;·&nbsp; 🎓 University of Florida &nbsp;·&nbsp; 💼 Klaviyo · HubSpot · Amazon
+📍 Greater Boston &nbsp;·&nbsp; 🎓 University of Florida
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+%26+Distributed+Systems;AI%2C+Infrastructure+%26+Messaging+Platforms;Scalable+WhatsApp+%26+Email+Systems+at+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+%26+Distributed+Systems;AI%2C+Infrastructure+%26+Messaging+Platforms;Building+Reliable+Systems+That+Scale" alt="Typing SVG" />
 
 <br/>
 
@@ -21,79 +21,21 @@
 
 ## 🚀 About Me
 
-Senior Software Engineer with experience building scalable backend systems, distributed infrastructure, and customer-facing platforms across **Klaviyo, HubSpot, and Amazon**.
-
-Currently at **Klaviyo**, I work on systems supporting **WhatsApp messaging and customer engagement**. Previously, I contributed to **HubSpot's email systems** and **Amazon's retail and Alexa-related platforms**, working across backend services, distributed systems, data visualization, and internal tools.
-
-Alongside my engineering work, I'm especially interested in **applying AI to developer productivity, automation, product experiences, and scalable software systems**.
-
-My core strengths include **backend engineering, distributed systems, software infrastructure, Java, system design, and building reliable products at scale**. I enjoy solving complex engineering problems, learning emerging technologies, and working with teams that value **ownership, strong architecture, and measurable impact**.
-
----
-
-## 💼 Experience
-
-### [Klaviyo](https://www.klaviyo.com) — Senior Software Engineer
-
-**Jan 2025 – Present · Boston, MA · Hybrid**
-
-Senior Software Engineer working on Klaviyo's **WhatsApp messaging platform**, building scalable systems that support customer engagement, marketing automation, and reliable communication workflows.
-
-- Build and maintain backend systems supporting WhatsApp messaging and customer engagement workflows
-- Contribute to scalable service architecture, distributed systems design, and infrastructure reliability
-- Collaborate with product and engineering teams to deliver reliable messaging experiences
-- Use AI for developer productivity, automation, and software engineering workflows
-
-*Software Design, Software Infrastructure, Distributed Systems*
-
-### [HubSpot](https://www.hubspot.com) — Senior Software Engineer
-
-**Dec 2022 – Jan 2025 · Cambridge, MA · Remote**
-
-Worked on HubSpot's **email systems**, contributing to backend services and distributed infrastructure supporting large-scale customer communication.
-
-- Developed backend services for HubSpot's email platform and customer communication systems
-- Worked on distributed systems focused on scalability, reliability, and maintainability
-- Improved service design and infrastructure for customer engagement workflows
-- Contributed to systems supporting large-scale marketing and messaging products
-
-*Distributed Systems, Java, High-Volume Messaging*
-
-### [Amazon](https://www.amazon.com) — Software Development Engineer 2
-
-**Dec 2017 – Dec 2022 · Greater Boston · 5 yrs 1 mo**
-
-Worked on Amazon **retail and Alexa-related systems**, including data visualization, workforce management, and internal tooling.
-
-- Built software for Amazon retail and Alexa-related platforms
-- Developed tools for data visualization and workforce management workflows
-- Contributed to backend and frontend systems used by internal teams and business stakeholders
-- Built reliable software in large-scale engineering environments
-
-### [Amazon](https://www.amazon.com) — Software Engineer
-
-**Feb 2015 – Dec 2017 · Alexa Dataservices · 2 yrs 11 mos**
-
-Software Developer in the Alexa Dataservices team, working on visualization of data and workforce management.
-
-- Gained experience with **Java, JUnit, AWS, DynamoDB, Git, Perl**
-- Designed scalable, robust, and fault-tolerant applications independently
-- Worked across teams and timezones for cross-platform projects
-- Built tools to ensure price competitiveness for items sold by sellers on Amazon
-- Ensured bug-free solutions through unit and integration testing
-- 🏆 **Winner of an inter-organization Hackathon** leading to the creation of the **Amazon Assistant plugin for browsers**
-- Shortlisted resumes, interviewed candidates, and mentored interns / new joiners
+- 💼 Senior Software Engineer at **[Klaviyo](https://www.klaviyo.com)** — building **WhatsApp messaging & customer engagement** platforms
+- 🏢 Previously at **[HubSpot](https://www.hubspot.com)** (email systems) and **[Amazon](https://www.amazon.com)** (retail & Alexa)
+- 🤖 Especially interested in **AI for developer productivity, automation, and scalable product experiences**
+- 🧠 Core strengths: **backend engineering, distributed systems, infrastructure, Java, system design**
+- 🔓 I enjoy solving complex problems, learning emerging tech, and building with teams that value **ownership & measurable impact**
 
 ---
 
 ## 🛠️ What I Do
 
-- **Backend development & deployments** — Java and AWS at scale
-- **Distributed systems & infrastructure** — scalable, reliable, observable services
-- **Messaging platforms** — WhatsApp, email, and customer engagement workflows
-- **Full-stack system design** — from API design to deployment primitives
-- **Making the right data choice** — Relational (RDBMS) vs. NoSQL, and why
-- **Applying AI** — developer productivity, automation, and product experiences
+- **Backend & Distributed Systems** — scalable, reliable, observable services
+- **Messaging Platforms** — WhatsApp, email, and customer engagement workflows
+- **Full-Stack System Design** — from API design to deployment primitives
+- **Data at Scale** — making the right choice between RDBMS and NoSQL
+- **Applying AI** — automation, dev productivity, and product experiences
 
 ---
 
@@ -110,12 +52,6 @@ Software Developer in the Alexa Dataservices team, working on visualization of d
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
-
----
-
-## 🏅 Certifications
-
-- **Google AI Essentials V1** — Coursera (Issued via credly.com)
 
 ---
 
