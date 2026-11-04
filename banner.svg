@@ -1,0 +1,31 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#a371f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+  <circle cx="1080" cy="60" r="120" fill="url(#accent)" opacity="0.06"/>
+  <circle cx="120" cy="280" r="90" fill="url(#accent)" opacity="0.05"/>
+  <!-- terminal dots -->
+  <circle cx="36" cy="32" r="7" fill="#ff5f56"/>
+  <circle cx="60" cy="32" r="7" fill="#ffbd2e"/>
+  <circle cx="84" cy="32" r="7" fill="#27c93f"/>
+  <!-- prompt -->
+  <text x="36" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#8b949e">$ whoami</text>
+  <text x="130" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#36BCF7">--role senior --focus backend,distributed-systems,ai</text>
+  <!-- name -->
+  <text x="36" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-weight="700" font-size="48" fill="#e6edf3">Kamlesh Kumar Chhetty</text>
+  <text x="36" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" fill="#c9d1d9">Senior Software Engineer</text>
+  <text x="36" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#8b949e">Backend &amp; Distributed Systems · Messaging Platforms · AI Infrastructure</text>
+  <!-- footer line -->
+  <text x="36" y="268" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#7ee787">→ building reliable systems that scale, and tools that let people sleep.</text>
+  <text x="36" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#6e7681">Greater Boston · University of Florida · Java / Python / Go / AWS</text>
+</svg>
