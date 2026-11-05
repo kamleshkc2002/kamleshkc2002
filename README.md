@@ -85,8 +85,6 @@ class KamleshKumarChhetty:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshkc2002&layout=compact&theme=tokyo-night&hide_border=true" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshkc2002&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamleshkc2002&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 
 </div>
 
